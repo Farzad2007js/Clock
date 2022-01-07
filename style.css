@@ -1,0 +1,27 @@
+* {
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: yellow;
+}
+
+.clock {
+  background-color: red;
+  box-shadow: 8px 7px 10px blue;
+  border-radius: 75px;
+  width: 150px;
+  height: 150px;
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: x-large;
+}
